@@ -18,3 +18,20 @@ span.error {
 span.success {
   color: #27ae60
 }
+
+
+.email{
+  border: black solid 3px;
+  height: 30px;
+}
+
+.emailvalid{
+  border: green solid 3px;
+  height: 30px;
+}
+
+
+.emailInvalid{
+  border: #c0392b solid 3px;
+  height: 30px;
+}
